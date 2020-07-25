@@ -1,0 +1,5 @@
+name: Hello_world_module
+type: module
+description: custom module for hello_world
+package: custom
+core: 8.x
